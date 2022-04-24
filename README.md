@@ -1,5 +1,5 @@
 <h1 align="center">Hey There👋 this is Anurag Nayak</h1>
-<!-- <h3 align="center">I am Fresher.</h3> -->
+<h3 align="center">Building website's UI is my forte</h3>
 
 - 🌱 I’m currently learning **Node.js**
 
@@ -13,6 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/anurag nayak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anurag nayak" height="30" width="40" /></a>
+<a href="https://instagram.com/anurag_n19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag_n19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
