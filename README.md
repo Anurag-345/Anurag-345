@@ -1,5 +1,5 @@
 <h1 align="center">Hey There👋 this is Anurag Nayak</h1>
-<h3 align="center">Building website's UI is my forte</h3>
+<h3 align="center">A full Stack developer</h3>
 
 - 🌱 I’m currently learning **Node.js**
 
